@@ -1,49 +1,21 @@
-# 🚀 Akash Ragghuwanshi — AI Automation & Python Journey
+# 🐍 Python Learning Journey — Akash Ragghuwanshi
 
-👨‍💻 About Me
-Delhi-based AI Automation Engineer in making. Building real projects with n8n, FastAPI, Python & Supabase.
+Based in Delhi, India — Building towards AI Automation Engineer role!
 
-## 🛠️ Skills
-
-* Automation: n8n, Webhooks, AI Agents
-* Backend: FastAPI, REST APIs, Python
-* Database: Supabase, Google Sheets
-* Tools: Telegram Bot, Gmail, Hoppscotch
-
-## 📦 Projects Built
-
-1. 🤖 AI Expense Tracker API
-Tech: n8n + Google Gemini + Supabase
-What: Natural language se expense track karo — "Spent 300 on pizza"
-AI automatically category aur amount extract karta hai
-Full CRUD API with Header Authentication
-👉 [View Project](https://github.com/AkashRag/ai-expense-tracker)
-
-2. 📋 Google Form Notification System
-Tech: Google Sheets + n8n AI Agent + Gmail + Telegram
-What: Form submit hone pe AI notification banata hai
-Automatically email + Telegram pe bhejta hai
-
-3. 🎓 Tutor Management System
-Tech: Telegram + n8n + Supabase + WhatsApp
-What: Indian tutors ke liye complete student management
-Marks, Attendance, Homework, Parent notifications
-👉 [View Project](https://github.com/AkashRag/Tutor-Management-system.-)
-
-4. 📝 Todo Tracker
-Tech: Python
-What: Python mein CRUD based todo system
-
-## 🐍 Python Learning
-
-### Day 1 — Python Basics
-* Lists aur Dictionary
+## Day 1 — Python Basics
+* Lists and Dictionary
 * Functions
 * For loops
 * CRUD operations
 * f-strings
 
-### Day 2 — FastAPI Full CRUD
+### Projects Built:
+* 📝 Expense Tracker — Python CRUD
+* 📒 Phonebook — Dictionary + For loop
+* 🧮 Calculator — Functions in Dictionary
+* 🛒 Cart System — List operations
+
+## Day 2 — FastAPI Full CRUD
 * FastAPI setup
 * GET endpoints
 * POST endpoints
@@ -53,15 +25,12 @@ What: Python mein CRUD based todo system
 * Uvicorn server
 * REST API concepts
 
-## 🗺️ Roadmap
+### Projects Built:
+* 🚀 Student API — Full CRUD with FastAPI
 
-* ✅ n8n Automation
-* ✅ AI Agents
-* ✅ Supabase
-* ✅ REST APIs
-* ✅ FastAPI Full CRUD
-* ⬜ FastAPI + Supabase CRUD
+## 🗺️ What's Coming Next:
+* ⬜ Pydantic Models
+* ⬜ FastAPI + Supabase Integration
 * ⬜ JWT Authentication
-* ⬜ Python + PostgreSQL
 * ⬜ Docker + Deployment
 * ⬜ 50K+ Job 🎯
